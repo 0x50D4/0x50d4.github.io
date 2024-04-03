@@ -14,9 +14,9 @@ timezone: "Europe/Budapest"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: "Soda's Blog" # the main title
+title: "Soda" # the main title
 
-tagline: (they/them) # it will display as the sub-title
+tagline: Following my curiosity. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Soda's blog about cyber security and programming
